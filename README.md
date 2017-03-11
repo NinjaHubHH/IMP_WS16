@@ -1,6 +1,15 @@
 # IMP_WS16
 VR Project with HTC Vive
 
+UPDATE 15.02.2017
+Ich habe die Harry Potter Szene verworfen aufgrund zu viel Animationen von "Gegnern" in der Szene, die den Arbeitsaufwand nur noch verlängern. 
+Die neue Idee ist ein Minispiel indem man ein Labirith meistern muss. Es gibt 4 verschiedene Areas im Labyrinth (A,B,C,D) und die Gewinner-Area in der der Siegerpokal steht. 
+Nur von Area B und C gelangt man in die Mitte des Labyrinths, also zum Ziel. In diesem beiden Areas stehen Teleport Buttons in den man je zu der anderen kommt. Also von C nach B und von B nach C. Mit Pech läuft man zwischen diesen immer hin und her. 
+Die Area D ist eine in sich geschlossene Area in die man nur mit einem Teleport button aus Area A herein kommt. Hier muss man nun einen Schlüssel finden, der einen in die Area C führt.
+Um zu wissen wo man schon war soll man durch ein Menü am Controller kleine Objekte (würfel) erstellen können und sich so eine Spur legen können. 
+
+
+
 IMP WS 16 Konzept /Idee fürs Projekt 31.10.2016
 
 Harry Potter, Band 3, Unterrichtsstunde in Verteidigung gegen die dunklen Künste bei Lupin.
